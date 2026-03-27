@@ -1,4 +1,4 @@
-Case Study: UPI/Online Payment Fraud**
+Case Study: UPI/Online Payment Fraud
 
 UPI/online payment fraud is a cybercrime in which fraudsters deceive users into transferring money through digital payment platforms such as Google Pay, Phone Pe, or Paytm. These scams often rely on social engineering techniques to manipulate victims.
 
